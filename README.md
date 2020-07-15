@@ -12,6 +12,15 @@ Every effort has been made to ensure that these population numbers reflect the p
 
 In all cases, this means we have excluded those not in custody of a state or federal prison, such as those on electronic detention, temporarily furloughed, held in county jail back up, or on house arrest/home confinement. 
 
-The exceptions to the above are for Connecticut, Rhode Island, Delaware, and Hawaii. These states operated unified jail and prison systems, where facilities hold both sentenced individuals as well as those awaiting trial. To make the numbers more comparable with other states, we have included population counts only for sentenced individuals in these states. Additionally, West Virginia Division of Corrections and Rehabilitation operates jails, prisons and work release centers, but only individuals in prisons and work release centers have been included for this story.
+The exceptions to the above are for [Connecticut](https://cjis-dashboard.ct.gov/CJPPD_Reports/rdPage.aspx?rdReport=Extracted_Data), Rhode Island, [Delaware](https://data.delaware.gov/Public-Safety/Inmate-Population/vnau-c4rn), and [Hawaii](https://dps.hawaii.gov/about/divisions/corrections/). These states operated unified jail and prison systems, where facilities hold both sentenced individuals as well as those awaiting trial. To make the numbers more comparable with other states, we have included population counts only for sentenced individuals in these states. Additionally, [West Virginia Division of Corrections and Rehabilitation](https://dhhr.wv.gov/COVID-19/Documents/COVID19_DCR_2020_07-15_1500.pdf) operates jails, prisons and work release centers, but only individuals in prisons and work release centers have been included for this story.
 
 The population numbers were then vetted to ensure that between March and June, the same population (or subset of the state- of federal-sentenced population) is  included. We also tried to ensure that the numbers were from as close to the middle of March and middle of June as possible, but in some cases have included numbers from the beginning or end of the month. 
+
+## Attribution
+In stories attribute this data to: “According to an analysis of state and federal prison population by The Marshall Project, a nonprofit investigative newsroom dedicated to the U.S. criminal justice system”
+
+## Contributors
+Many reporters and editors at The Marshall Project and The Associated Press contributed to this data, including: Katie Park, Tom Meagher, Weihua Li, Gabe Isman, Cary Aspinwall, Keri Blakinger, Jake Bleiberg, Andrew R. Calderón, Maurice Chammah, Andrew DeMillo, Eli Hager, Jamiles Lartey, Claudia Lauer, Nicole Lewis, Humera Lodhi, Colleen Long, Joseph Neff, Alysia Santo, Beth Schwartzapfel, Damini Sharma, Colleen Slevin, Christie Thompson, Abbie VanSickle, Andrew Welsh-Huggins, Adria Watson.
+
+## Questions
+If you have questions about the data, please email us at dsharma@themarshallproject.org or wli@themarshallproject.org.
