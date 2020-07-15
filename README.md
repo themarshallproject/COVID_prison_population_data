@@ -17,7 +17,8 @@ The exceptions to the above are for [Connecticut](https://cjis-dashboard.ct.gov/
 The population numbers were then vetted to ensure that between March and June, the same population (or subset of the state- of federal-sentenced population) is  included. We also tried to ensure that the numbers were from as close to the middle of March and middle of June as possible, but in some cases have included numbers from the beginning or end of the month. 
 
 ## Attribution
-In stories attribute this data to: “According to an analysis of state and federal prison population by The Marshall Project, a nonprofit investigative newsroom dedicated to the U.S. criminal justice system”
+In stories attribute this data to: “According to an analysis of state and federal prison population by The Marshall Project, a nonprofit investigative newsroom dedicated to the U.S. criminal justice system, and The Associated Press”
+
 
 ## Contributors
 Many reporters and editors at The Marshall Project and The Associated Press contributed to this data, including: Katie Park, Tom Meagher, Weihua Li, Gabe Isman, Cary Aspinwall, Keri Blakinger, Jake Bleiberg, Andrew R. Calderón, Maurice Chammah, Andrew DeMillo, Eli Hager, Jamiles Lartey, Claudia Lauer, Nicole Lewis, Humera Lodhi, Colleen Long, Joseph Neff, Alysia Santo, Beth Schwartzapfel, Damini Sharma, Colleen Slevin, Christie Thompson, Abbie VanSickle, Andrew Welsh-Huggins, Adria Watson.
