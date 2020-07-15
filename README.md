@@ -1,5 +1,5 @@
 # COVID prison population data
-This repository contains the final dataset used for The Marshall Project and Associated Press story: [Prison Populations Drop by 100,000 During Pandemic](Prison Populations Drop by 100,000 During Pandemic), published on July 16, 2020.
+This repository contains the final dataset used for The Marshall Project and Associated Press story: [Prison Populations Drop by 100,000 During Pandemic](https://www.themarshallproject.org/2020/07/16/prison-populations-drop-by-100-000-during-pandemic), published on July 16, 2020.
 
 The ReadMe describes our methodology in collecting these numbers. The final dataset also contains a column explaining how we obtained numbers and what they represent for each state that is included in the final story.
 
